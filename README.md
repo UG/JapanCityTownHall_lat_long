@@ -1,0 +1,2 @@
+# JapanCityTownHall_lat_long
+市区町村役場緯度経度
